@@ -1,0 +1,11 @@
+{
+    "author": "Dmitry Berezovsky",
+    "back": false,
+    "exclude": "",
+    "include": "*.py",
+    "license": "gpl3",
+    "program": "am43",
+    "short": "AM43 Remote Control",
+    "single": true,
+    "year": "2020"
+}
